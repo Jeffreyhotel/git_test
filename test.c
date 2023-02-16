@@ -5,5 +5,8 @@ int main(void)
     printf("I'm not OK.");
     printf("please disappear.98789");
     printf("that's ok, we go together!");
+
+    /* stage 2 */
+    printf("why?");
     return 0;
 }
